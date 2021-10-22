@@ -1,1 +1,1 @@
-# sanity-nextjs-landing-pages-studio
+# Gabe A Sanity backend
